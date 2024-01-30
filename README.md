@@ -23,8 +23,17 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codarck&theme=onedark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codarck&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=codarck&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=codarck&show_icons=true" />
+</picture>
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codarck&show_icons=true&theme=transparent)
