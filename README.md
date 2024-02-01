@@ -1,8 +1,9 @@
 <h1> Hola mi nombre es christian 👋 </h1>
 <h2> Un apasionado desarrollador de software de Perú 🇵🇪 </h2>
-<img align="right" alt="GIF" src="https://ibb.co/zQWnn53" width="500"/>
+<img src="https://i.ibb.co/k5VHHyL/Bienvenido.png" alt="Bienvenido" border="0" width="500"/>
+
 <h3> 👨🏻‍💻 Acerca de mí</h3> 
-<a href="https://ibb.co/zQWnn53"><img src="https://i.ibb.co/k5VHHyL/Bienvenido.png" alt="Bienvenido" border="0" /></a>
+
 🔭 Actualmente estoy aprendiendo vue para el desarrollo. <br>
 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos. <br>
 🎓 Estudiar Informática, programación informática. <br>
