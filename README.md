@@ -1,6 +1,6 @@
 <h1> Hola mi nombre es christian 👋 </h1>
 <h2> Un apasionado desarrollador de software de Perú 🇵🇪 </h2>
-<img align="right" alt="GIF" src="[https://ibb.co/zQWnn53]" width="500"/>
+<img align="right" alt="GIF" src="https://ibb.co/zQWnn53" width="500"/>
 <h3> 👨🏻‍💻 Acerca de mí</h3> 
 
 🔭 Actualmente estoy aprendiendo vue para el desarrollo. <br>
